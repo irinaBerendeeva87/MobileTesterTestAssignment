@@ -7,10 +7,10 @@ can be many critical bugs and it all depends on the documentation.
 
 ### 📁 Test documentation:
 
-📝[Test cases]()
+📝[Test cases](https://github.com/irinaBerendeeva87/MobileTesterTestAssignment/blob/main/app/src/main/TestCases.md)
 
-🪲 [Critical bugs]()
+🪲 [Critical bugs](https://github.com/irinaBerendeeva87/MobileTesterTestAssignment/blob/main/app/src/main/CriticalBugs.md)
 
-🔖 [Questions]()
+🔖 [Questions](https://github.com/irinaBerendeeva87/MobileTesterTestAssignment/blob/main/app/src/main/Questions.md)
 
 
