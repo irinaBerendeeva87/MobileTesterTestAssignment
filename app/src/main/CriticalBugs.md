@@ -1,6 +1,6 @@
 **Critical bugs when searching  and booking flight options.**
 ---
-> Searching flight options
+> Searching flight options <
 ---
 1. Inability to find any available flights or no search results are displayed.
 2. Incorrect or incomplete information about the flights, such as incorrect arrival or departure
