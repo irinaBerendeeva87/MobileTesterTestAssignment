@@ -48,8 +48,6 @@ User account is created successfully.
 The user should not be able to register with an invalid email format.
 The app displays an error message indicating that the email format is invalid.
 
-**Expected result:** The user should not be able to register with an invalid email format.
-
 ---
 № UR4
 #### Registration with invalid password ####
@@ -179,6 +177,7 @@ User should be registered successfully and redirected to the app homepage/ Profi
 ---
 > User log In
 ---
+
 № UR10
 #### Log in with valid credentials ####
 **Preconditions:**
@@ -265,7 +264,7 @@ The user is successfully logged into the app and is redirected to the Home page 
 ---
 № UR14
 
-#### Test Case 5: Login with Biometric Authentication ####
+#### Login with Biometric Authentication ####
 
 **Preconditions:**
 
@@ -286,8 +285,8 @@ The user is successfully logged into the app and is redirected to the Home page 
 
 ---
 
-№ UR14
-#### Test Case 5: User login with Google/Apple account ####
+№ UR15
+#### User login with Google/Apple account ####
 **Preconditions:**
 
 - The app is installed on a mobile device.
@@ -307,8 +306,8 @@ The user is successfully logged into the app and is redirected to the Home page 
  User should be logged in successfully and redirected to the app homepage/Profile.
 
 ---
-№ UR15
-#### Test Case 6: User login with Facebook account ####
+№ UR16
+#### User login with Facebook account ####
 **Preconditions:**
 
 - The app is installed on a mobile device.
