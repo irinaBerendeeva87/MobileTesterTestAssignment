@@ -21,7 +21,7 @@ User account is created successfully.
 
 ---
 № UR2
-#### User receives a confirmation email upon successful registration.####
+#### User receives a confirmation email upon successful registration. ####
 
 **Preconditions:** User has successfully registered with the app.
 
